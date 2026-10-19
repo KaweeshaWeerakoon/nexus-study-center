@@ -25,3 +25,8 @@ IMPORTANT LIMITATIONS
   not a signed Windows .exe installer.
 - The schedule starts with example entries. Edit them to match your real week.
 - The default exam date is 3 August 2027 and can be changed in Settings.
+
+
+APP ICON UPDATE
+----------------
+This edition includes the NEXUS app icon and manifest files. Upload/replace ALL files in this folder in the root of your GitHub repository (including index.html, manifest.json, nexus-192.png, nexus-512.png). Then wait for GitHub Pages to redeploy. If you already installed the site as an Edge app, uninstall the old app and install it again after the site updates so Windows can pick up the new icon.
